@@ -1,0 +1,16 @@
+public class demo1
+{
+public static void main(String a[ ])
+{
+	system.out.println("Hello All!!!!!");
+}
+}
+
+1.
+set path for java=>
+
+set path=C:\Program Files (x86)\Java\jdk1.6.0_45\bin
+
+2.
+set classpath=%.%.;
+
